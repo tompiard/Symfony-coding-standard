@@ -75,11 +75,11 @@
     </rule>
 
     <rule ref="Symfony.Commenting.FunctionComment.Missing">
-        <type>error</type>
+        <severity>0</severity>
     </rule>
 
     <rule ref="Symfony.Commenting.ClassComment.Missing">
-        <type>error</type>
+        <severity>0</severity>
     </rule>
 
     <rule ref="Symfony.Commenting.ClassComment.Blacklisted">
@@ -87,7 +87,7 @@
     </rule>
 
     <rule ref="Symfony.Commenting.FunctionComment.MissingReturn">
-        <type>error</type>
+        <severity>0</severity>
     </rule>
 
     <rule ref="Symfony.Commenting.FunctionComment.SpacingBeforeTags">
